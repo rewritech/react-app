@@ -26,6 +26,9 @@ C:\Users\GHJ\Desktop\IT\react-app>npm run build # build 폴더 생성
 C:\Users\GHJ\Desktop\IT\react-app>npx serve -s build # 서버 기동
 ```
 
+## react 사용 목적
+긴 코드의 엘리먼트를 사용자 정의 태그로 재활용 가능
+
 ## Available Scripts
 
 In the project directory, you can run:
