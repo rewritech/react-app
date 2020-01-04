@@ -20,6 +20,10 @@ C:\Users\GHJ\Desktop\IT\react-app>create-react-app .
 
 #app 실행
 C:\Users\GHJ\Desktop\IT\react-app>npm start
+
+#deploy
+C:\Users\GHJ\Desktop\IT\react-app>npm run build # build 폴더 생성
+C:\Users\GHJ\Desktop\IT\react-app>npx serve -s build # 서버 기동
 ```
 
 ## Available Scripts
