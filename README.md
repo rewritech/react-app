@@ -1,5 +1,27 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## react-app 설치 및 시작
+
+node.js [다운](https://nodejs.org/en/)
+
+```bash
+#node.js 설치 후 CMD 확인
+C:\Users\GHJ>npm -v
+6.13.4
+
+#react 설치
+C:\Users\GHJ>npm install -g create-react-app@2.1.8
+C:\Users\GHJ\AppData\Roaming\npm\create-react-app -> C:\Users\GHJ\AppData\Roaming\npm\node_modules\create-react-app\index.js
++ create-react-app@2.1.8
+added 63 packages from 20 contributors in 3.97s
+
+#app 설치
+C:\Users\GHJ\Desktop\IT\react-app>create-react-app .
+
+#app 실행
+C:\Users\GHJ\Desktop\IT\react-app>npm start
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
